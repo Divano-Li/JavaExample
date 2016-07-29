@@ -1,0 +1,41 @@
+1.resolve
+  	解决 v，to resolve a problem
+  	下定决心 v  if you resolve to do something ,you make a firm decision to do it
+  				she resolved to report the matter to the manager.
+  	决心，决意 n，resolve is determination to do what you have decide to do
+  				  this will strengthen the American public's resolve to go to war
+  	(使)分解为 v-erg   reslove something into a clearer form ; something resolve into a clearer form
+  				like a musician resolving a confused mass of sound into melodic or harmonic order
+  	resolved 
+  		 adj 下决心的  be resolved to do sth;
+  		 v-ed
+
+correspond 
+	v-recip (相互动词)  相类似，相关，相对应
+			if one thing corressponds to another ,there is a close similarity or connection
+			between them.You can alse say that two things correspond.
+	v_recip (与..)通信 if you correspond with someone ,you write letter to them.You can 
+			also say that two people correspond.
+			we correspond regularly.
+
+correspond correspond correspond correspond correspond
+
+The task will be achieved by deepening reforms,reducing overcapacity(生产力过剩)，destocking,reducing costs and shoring up weaks spots.
+
+Premier Li called the participating organizations important rule-makers for international community,leading think tanks for the world's development and pillars for the global economy.
+The dialogue not only boosted coorperation but alse contributed to recovery of the world economy.
+
+refer 
+  v 提交；送交  if you refer a task or a problem to a person or an organization ,you formally tell them about it ,so that they can deal with it .
+    eg.cannot refer inside an inner class to to a non-final variable newSize defined in a different method
+
+  v 谈及，涉及，提到 if you refer to a particular subject or person ,you talk about them or mention them.
+  v 称。。（为）     if you refer to someone or somenthing as a particular thing,you use a particular word,expression,or name to mention or desrcibe them.
+    I refer to zhangzhiwei as a dear friend .
+  v 指引；让。。去查询 if you refer someone to a source of information,you tell them the place where they will find th information whick they need or which they need or which you think they will interest them.
+  v 参阅，参考 refer to a  book
+  v 推荐介绍。refer someone to a person 
+reference 
+  a 供参考的， reference books
+  n 参考，咨询 without reference to Parliament
+  n 提及；谈到 He made no reference to any agreement
